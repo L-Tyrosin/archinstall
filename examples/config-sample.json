@@ -1,9 +1,9 @@
 {
     "config_version": "2.5.2",
     "additional-repositories": [],
-    "archinstall-language": "English",
+    "archinstall-language": "German",
     "audio_config": {"audio": "pipewire"},
-    "bootloader": "Systemd-boot",
+    "bootloader": "grub",
     "debug": false,
     "disk_config": {
         "config_type": "default_layout",
